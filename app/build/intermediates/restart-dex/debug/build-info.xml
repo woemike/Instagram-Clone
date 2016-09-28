@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="144289480294101"
+    token="3713401184151283670"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="400" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="127" />
+    <task
+        name="verifier"
+        duration="31" />
+
+    <artifact
+        location="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="144289480294101"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,7 @@
+#Wed Sep 28 00:05:05 BST 2016
+base.0=/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b96b6ca017cd771ba3d2081f0f9ca9871bdc02e2
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dfe1336556bce90719b2a90cad17fc0813416da5/classes.dex
+base.1=/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dfe1336556bce90719b2a90cad17fc0813416da5
+file.0=/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b96b6ca017cd771ba3d2081f0f9ca9871bdc02e2/classes.dex

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_f84e1561cfa4ca98dfbc331285670b7e62648735/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_00d1ddc65604f4fe52c60fe55db33523783eb871/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_6e5ac872b85daecba62c44d1269e1984ef4abb1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_4ca5858abe507076bfee001d18069c0f3f662b6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_e874c99d0a5ec45726f38400714622d1273218d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/intermediates/exploded-aar/com.android.support/percent/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="91c2541305eec5a688f3a60529d974e48f77d760">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-percent-23.4.0_534477a6bcdcb8c60e6eb06a6b5afb39a9c4b70b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fce08cf460281d79cf92fdfad0e7be6efa1b7f53">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dfe1336556bce90719b2a90cad17fc0813416da5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_76fed9fab1b274af92dc10bf3424bee18a446df1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9ee3b7ecfd90077cfb4ad31df58b398ebbd94576">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b96b6ca017cd771ba3d2081f0f9ca9871bdc02e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_f7f08bbeacecf0ebc3bbffd5a9aaa3a880ba94d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_0c090244c8779e795bc1be0695da373aef686b77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Instagram Clone/InstaSlam-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_3e635f90b12fb3a02b3a2726a4656daf1bbbe111/classes.dex" />
+    </item>
+
+</items>
